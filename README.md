@@ -1,13 +1,13 @@
-# Description Fonctionnelle du Site E-commerce de Sacs à Main
+# Partie 1 : Description Fonctionnelle du Site E-commerce de Sacs à Main 
 
-## Modules à Développer :
+## Modules à Développer
 
-1. **Navigation Intuitive et Recherche Puissante**
-2. **Fiches Produits Riches et Visuellement Attrayantes**
-3. **Processus d'Achat Simple et Sécurisé**
-4. **Fonctionnalités Supplémentaires**
+Navigation Intuitive et Recherche Puissante
+Fiches Produits Riches et Visuellement Attrayantes
+Processus d'Achat Simple et Sécurisé
+Fonctionnalités Supplémentaires <= Ca veut dire quoi cette partie ?
 
-## Fonctionnalités par Module:
+## Fonctionnalités par Module
 
 ### Navigation Intuitive et Recherche Puissante:
 - **Barre de Navigation:**
@@ -84,5 +84,3 @@
 - **Ajouter les Avis et Notes:**
   - Créer une interface utilisateur pour consulter et laisser des avis.
   - Afficher les avis de manière claire et informative.
-
-Ce document décrit les fonctionnalités essentielles et les tâches de développement pour un site e-commerce de sacs à main, en mettant l'accent sur une navigation intuitive, des fiches produits attrayantes, un processus d'achat sécurisé, et des fonctionnalités supplémentaires pour améliorer l'expérience utilisateur.
